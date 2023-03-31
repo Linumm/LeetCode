@@ -1,4 +1,3 @@
-
 //Using Stack to compare the index difference!
 class Solution {
 public:
